@@ -1,12 +1,15 @@
-curl -X GET https://api.github.com/repos/punit-0522/mcino-Introduction-to-Git-and-GitHub/pulls
+$ curl -X GET https://api.github.com/repos/punit-0522/mcino-Introduction-to-Git-and-GitHub/pulls
 
-{
-  "id": 78910,
-  "title": "Fix typo",
-  "state": "open",
-  "head": {
-    "repo": {
-      "full_name": "punit-0522/mcino-Introduction-to-Git-and-GitHub"
+[
+  {
+    "id": 987654321,
+    "number": 1,
+    "state": "open",
+    "title": "Fix typo",
+    "head": {
+      "repo": {
+        "full_name": "punit-0522/mcino-Introduction-to-Git-and-GitHub"
+      }
     }
   }
-}
+]
