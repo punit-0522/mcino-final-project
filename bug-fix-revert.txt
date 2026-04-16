@@ -1,8 +1,1 @@
-$ git branch -a
-
-* main
-  bug-fix-typo
-  bug-fix-revert
-  remotes/origin/main
-  remotes/origin/bug-fix-typo
-  remotes/origin/bug-fix-revert
+$ curl -H "Accept: application/vnd.github.v3+json" https://api.github.com/repos/punit-0522/mcino-final-project/pulls
