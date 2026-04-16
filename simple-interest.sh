@@ -9,6 +9,6 @@ read r
 echo "Enter Time:"
 read t
 
-si=$((p * r * t / 100))
+si=$(echo "scale=2; $p * $r * $t / 100" | bc)
 
 echo "Simple Interest is: $si"
