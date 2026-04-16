@@ -4,7 +4,7 @@
 We pledge to make participation in our project a harassment-free experience.
 
 ## Our Standards
-Be respectful and inclusive.
+Be respectful, inclusive, and professional.
 
 ## Enforcement Responsibilities
 Project maintainers are responsible for enforcing standards.
@@ -13,10 +13,10 @@ Project maintainers are responsible for enforcing standards.
 This Code applies within all project spaces.
 
 ## Enforcement
-Instances of abusive behavior may be reported.
+Instances of abusive behavior may be reported to maintainers.
 
 ## Enforcement Guidelines
-Warnings, temporary bans, or permanent bans may be applied.
+Violations may result in warnings, temporary bans, or permanent bans.
 
 ## Attribution
-This Code of Conduct is adapted from standard open-source guidelines.
+This Code of Conduct is adapted from open-source community standards.
