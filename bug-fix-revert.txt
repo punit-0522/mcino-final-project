@@ -1,15 +1,8 @@
-$ curl -X GET https://api.github.com/repos/punit-0522/mcino-Introduction-to-Git-and-GitHub/pulls
+$ git branch -a
 
-[
-  {
-    "id": 987654321,
-    "number": 1,
-    "state": "open",
-    "title": "Fix typo",
-    "head": {
-      "repo": {
-        "full_name": "punit-0522/mcino-Introduction-to-Git-and-GitHub"
-      }
-    }
-  }
-]
+* main
+  bug-fix-typo
+  bug-fix-revert
+  remotes/origin/main
+  remotes/origin/bug-fix-typo
+  remotes/origin/bug-fix-revert
