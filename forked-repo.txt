@@ -1,14 +1,2 @@
 $ curl -X POST https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/forks
-
-{
-  "id": 12345678,
-  "node_id": "MDEwOlJlcG9zaXRvcnkxMjM0NTY3OA==",
-  "name": "mcino-Introduction-to-Git-and-GitHub",
-  "full_name": "punit-0522/mcino-Introduction-to-Git-and-GitHub",
-  "private": false,
-  "owner": {
-    "login": "punit-0522"
-  },
-  "fork": true,
-  "html_url": "https://github.com/punit-0522/mcino-Introduction-to-Git-and-GitHub"
-}
+$ curl -H "Accept: application/vnd.github.v3+json" https://api.github.com/repos/punit-0522/mcino-final-project
