@@ -1,1 +1,12 @@
+curl -X GET https://api.github.com/repos/your-username/mcino-Introduction-to-Git-and-GitHub/pulls
 
+{
+  "id": 78910,
+  "state": "open",
+  "title": "Fix typo",
+  "head": {
+    "repo": {
+      "full_name": "your-username/mcino-Introduction-to-Git-and-GitHub"
+    }
+  }
+}
