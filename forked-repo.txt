@@ -1,2 +1,6 @@
-$ curl -X POST https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/forks
-$ curl -H "Accept: application/vnd.github.v3+json" https://api.github.com/repos/punit-0522/mcino-final-project
+curl -X POST https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/forks
+
+{
+  "full_name": "punit-0522/mcino-Introduction-to-Git-and-GitHub",
+  "fork": true
+}
