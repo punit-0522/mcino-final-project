@@ -1,1 +1,4 @@
-$ git branch -a
+git branch
+
+* main
+  bug-fix-typo
