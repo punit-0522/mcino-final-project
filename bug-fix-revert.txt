@@ -10,6 +10,15 @@ curl -X GET https://api.github.com/repos/punit-0522/github-final-project/pulls
       "login": "punit-0522"
     },
     "body": "This pull request fixes a bug and reverts previous incorrect changes.",
-    "merged": true
+    "merged": true,
+    "base": {
+      "repo": {
+        "full_name": "punit-0522/github-final-project",
+        "fork": true,
+        "parent": {
+          "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+        }
+      }
+    }
   }
 ]
