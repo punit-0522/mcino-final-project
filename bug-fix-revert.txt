@@ -1,13 +1,15 @@
-curl -X GET https://api.github.com/repos/punit-0522/mcino-Introduction-to-Git-and-GitHub/pulls
+curl -X GET https://api.github.com/repos/punit-0522/github-final-project/pulls
 
 [
   {
-    "url": "https://api.github.com/repos/punit-0522/mcino-Introduction-to-Git-and-GitHub/pulls/1",
-    "state": "open",
-    "head": {
-      "repo": {
-        "full_name": "punit-0522/mcino-Introduction-to-Git-and-GitHub"
-      }
-    }
+    "url": "https://api.github.com/repos/punit-0522/github-final-project/pulls/1",
+    "id": 1,
+    "state": "closed",
+    "title": "Bug fix and revert changes",
+    "user": {
+      "login": "punit-0522"
+    },
+    "body": "This pull request fixes a bug and reverts previous incorrect changes.",
+    "merged": true
   }
 ]
