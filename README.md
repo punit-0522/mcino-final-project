@@ -1,27 +1,39 @@
 # Simple Interest Calculator
 
-This project is a Bash script that calculates simple interest based on user input.
+This project is a simple web-based application that calculates simple interest based on user input. It was developed as part of the final project requirement.
 
-## Description
-The script takes the following inputs from the user:
-- Principal amount
-- Rate of interest
-- Time period
+## 📌 Features
 
-It then calculates the simple interest using the formula:
+- Calculates simple interest using the formula:
+  Simple Interest = (Principal × Rate × Time) / 100
+- User-friendly interface
+- Instant result display
+- Clean and simple design
 
-Simple Interest = (Principal × Rate × Time) / 100
+## 🛠️ Technologies Used
 
-## How to Run
+- HTML
+- CSS
+- JavaScript
 
-1. Open terminal
-2. Navigate to project folder
-3. Run:
-   bash simple-interest.sh
-4. Enter required values
+## 📂 Project Structure
 
-## Files
-- simple-interest.sh : Bash script
+- index.html → Main UI
+- style.css → Styling
+- script.js → Logic for calculation
 
-## Author
-Punit Jaiswal
+## 🚀 How to Use
+
+1. Enter the Principal amount
+2. Enter the Rate of interest
+3. Enter the Time period
+4. Click on "Calculate"
+5. The result will be displayed instantly
+
+## 📎 Repository Link
+
+https://github.com/punit-0522/github-final-project
+
+## 📜 License
+
+This project is created for educational purposes.
